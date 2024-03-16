@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZehraOkurr
-- 🌱 I’m currently learning C#, HTML, CSS, JavaScript, MySQL
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScript, MySQL, Unity
 - 📫 Reach me: https://www.linkedin.com/in/zehra-okur-162828213/
 
 <!---
