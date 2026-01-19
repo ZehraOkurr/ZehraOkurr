@@ -1,5 +1,4 @@
 <h1 align="center">Merhaba, ben Zehra! 👋</h1>
-<h3 align="center">Yazılım Geliştirme Tutkunu & Öğrenci</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zehra-okur-162828213/">
@@ -14,11 +13,11 @@
 
 ### 🚀 Hakkımda
 
-Şu anda kendimi **Full Stack Development** ve **Oyun Geliştirme** alanlarında geliştiriyorum. Yeni teknolojiler öğrenmeyi ve açık kaynak projeleri incelemeyi seviyorum.
+Şu anda kendimi **Full Stack Development** ve **Web Tabanlı Programlama** alanlarında geliştiriyorum. Yeni teknolojiler öğrenmeyi ve açık kaynak projeleri incelemeyi seviyorum.
 
 - 🔭 Şu anda **Flutter ve Unity** üzerine çalışıyorum.
 - 🌱 Öğrenme sürecim: **Docker & Python (AI)**.
-- 👯 İş birliğine açığım: **C# ve Mobil Uygulama Projeleri**.
+- 👯 İş birliğine açığım: **C#, Python ve Mobil Uygulama Projeleri**.
 
 ---
 
@@ -44,6 +43,5 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZehraOkurr&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="Zehra'nın İstatistikleri" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraOkurr&layout=compact&theme=dark&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
 </p>
