@@ -1,47 +1,88 @@
-<h1 align="center">Merhaba, ben Zehra! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zehra%20Okur&fontSize=80&fontAlign=50&animation=twinkling&fontAlignY=35" width="100%" alt="Header" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zehra-okur-162828213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=535&lines=Merhaba%2C+Ben+Zehra+Okur!+%F0%9F%91%8B;Y%C3%B6netim+Bili%C5%9Fim+Sistemleri+%C3%96%C4%9Frencisiyim;Full+Stack+%26+Oyun+Geli%C5%9Ftiriciyim;Kodlamay%C4%B1+ve+%C3%9Cretmeyi+Seviyorum" alt="Typing SVG" />
   </a>
-  <a href="mailto:seninmailadresin@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🚀 Hakkımda & Kariyer Yolculuğum</h3>
+  <p width="600">
+    Bursa Uludağ Üniversitesi <b>Yönetim Bilişim Sistemleri</b> 4. sınıf öğrencisiyim. <br/> 
+    Yazılım dünyasında hem web hem de mobil programlama alanlarında kendimi geliştiriyorum. <br/>
+    Daha önce <b>Polonya'da Erasmus</b> deneyimi edindim.
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zehra-okur-162828213/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+  <a href="mailto:zehraokur03@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
----
+<br/>
+<hr/>
 
-### 🚀 Hakkımda
+<h3 align="center">🛠️ Teknoloji Yığınım (Tech Stack)</h3>
 
-Şu anda kendimi **Full Stack Development** ve **Web Tabanlı Programlama** alanlarında geliştiriyorum. Yeni teknolojiler öğrenmeyi ve açık kaynak projeleri incelemeyi seviyorum.
+<div align="center">
 
-- 🔭 Şu anda **Flutter ve Unity** üzerine çalışıyorum.
-- 🌱 Öğrenme sürecim: **Docker & Python (AI)**.
-- 👯 İş birliğine açığım: **C#, Python ve Mobil Uygulama Projeleri**.
+| **Diller** | **Framework & Oyun** | **Veritabanı & Araçlar** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cs,python,dart,html,css,js" width="250" /> | <img src="https://skillicons.dev/icons?i=flutter,unity,dotnet" width="150" /> | <img src="https://skillicons.dev/icons?i=mysql,docker,git,github" width="200" /> |
 
----
+</div>
 
-### 🛠️ Yeteneklerim & Araçlar
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🔭 Şu An Üzerinde Çalıştıklarım</h3>
+        <ul>
+          <li><b>Unity</b> ile oyun geliştirme mekanikleri</li>
+          <li><b>Flutter</b> ile mobil uygulama mimarisi</li>
+          <li><b>Python</b> ile Veri Madenciliği ve Yapay Zeka</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🌱 Öğrenme Hedeflerim</h3>
+        <ul>
+          <li>İleri seviye <b>Docker</b> konteynerizasyonu</li>
+          <li><b>ASP.NET Core</b> ile kurumsal mimariler</li>
+          <li>Büyük veri analizi (Kaggle projeleri)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
+<hr/>
 
-### 📊 GitHub İstatistiklerim
+<h3 align="center">📊 GitHub İstatistiklerim</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraOkurr&layout=compact&theme=dark&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraOkurr&layout=compact&theme=radical&hide_border=true&bg_color=181818" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZehraOkurr&theme=radical&hide_border=true&background=181818" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
