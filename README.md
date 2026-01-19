@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=535&lines=Merhaba%2C+Ben+Zehra+Okur!+%F0%9F%91%8B;YBS+Öğrencisiyim;Full+Stack+Web+Mobil+Programlama%26;Kodlamay%C4%B1+ve+%C3%9Cretmeyi+Seviyorum" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=535&lines=Merhaba%2C+Ben+Zehra+Okur!+%F0%9F%91%8B;YBS+Öğrencisiyim!;Kodlamay%C4%B1+ve+%C3%9Cretmeyi+Seviyorum" alt="Typing SVG" />
   </a>
 </div>
 
@@ -75,13 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraOkurr&layout=compact&theme=radical&hide_border=true&bg_color=181818" height="150" alt="languages graph" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZehraOkurr&theme=radical&hide_border=true&background=181818" alt="streak graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
