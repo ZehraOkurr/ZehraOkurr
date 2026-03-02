@@ -69,13 +69,3 @@
 <br/>
 <hr/>
 
-<h3 align="center">📊 GitHub İstatistiklerim</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraOkurr&layout=compact&theme=radical&hide_border=true&bg_color=181818" height="150" alt="languages graph" />
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
