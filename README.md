@@ -15,7 +15,6 @@
   <p width="600">
     Bursa Uludağ Üniversitesi <b>Yönetim Bilişim Sistemleri</b> 4. sınıf öğrencisiyim. <br/> 
     Yazılım dünyasında hem web hem de mobil programlama alanlarında kendimi geliştiriyorum. <br/>
-    Daha önce <b>Polonya'da Erasmus</b> deneyimi edindim.
   </p>
 </div>
 
