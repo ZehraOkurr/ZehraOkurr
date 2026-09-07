@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🚀 Hakkımda & Kariyer Yolculuğum</h3>
   <p width="600">
-    Bursa Uludağ Üniversitesi <b>Yönetim Bilişim Sistemleri</b> 4. sınıf öğrencisiyim. <br/> 
+    Bursa Uludağ Üniversitesi <b>Yönetim Bilişim Sistemleri</b> mezunuyum. <br/> 
     Yazılım dünyasında hem web hem de mobil programlama alanlarında kendimi geliştiriyorum. <br/>
   </p>
 </div>
